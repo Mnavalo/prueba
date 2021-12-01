@@ -1,0 +1,45 @@
+*{margin:0;padding:0;box-sizing:border-box;font-size:0;}
+h1{
+    color: black;
+    font-size: 27px;
+    font-family: arial black;
+}
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:18px;
+    } 
+    nav li{
+    display:inline-block;
+    width:16.66%;
+    padding:9px 14px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    }
+    nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }
+    table  {
+        border-collapse: separate;
+        border-spacing: 145px 10px;
+    }
+    td{
+        font-size: 20px;
+        font-family: arial;
+    }
+    #cabecera{
+        position: fixed;
+    }
+    pre{
+        font-size: 18px;
+        font-family: arial;
+        text-align: justify;
+    }
+     p{
+        font-size: 20px;
+
+    }
+
